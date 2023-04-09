@@ -1,0 +1,4 @@
+if (key.up)
+	player.forward*10
+
+print("Hello world");
