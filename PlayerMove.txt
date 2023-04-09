@@ -1,4 +1,6 @@
-if (key.up)
-	player.forward*10
+
+if (player na zemle)
+	if (key.up)
+		player.forward*10
 
 print("Hello world");
