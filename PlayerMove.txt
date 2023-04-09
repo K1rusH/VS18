@@ -1,3 +1,4 @@
+print(sdsdsd)
 if (key.up)
 	player.forward*10
 
